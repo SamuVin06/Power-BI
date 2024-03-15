@@ -2,7 +2,7 @@
 
 For this project I will be making a Power BI dashboard using the sample OLAP database [Worldwide Imports](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers), This sample has the structure of a Data Warehouse that consists of 8 dimension tables and 6 fact tables. I'll be using SQL as the data source for our dashboard and spreadsheets to generate a new table that contains a product category, by using AI to group each product into a category.
 
-**[Dashboard file](https://drive.google.com/file/d/1YXyekD4utq5-67ltzhMarbSa7rumC_F5/view?usp=drive_link)
+**[Dashboard file](https://drive.google.com/file/d/1YXyekD4utq5-67ltzhMarbSa7rumC_F5/view?usp=drive_link)**
 
 ## Objectives
 The objective of this project is to create a dashboard/report to obtain insights from the **Worldwide Imports** data warehouse using SQL to create KPI´s and Power BI to create Interactive reports and Power Query to clean data if needed. Create calculated measures for
